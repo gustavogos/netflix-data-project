@@ -48,7 +48,9 @@ O dashboard inclui:
 - Scatter plots (popularidade vs qualidade)
 - Atividade dos usuários
 
-📌 *Adicione aqui prints do dashboard*
+<img width="1122" height="1012" alt="dashboard_1" src="https://github.com/user-attachments/assets/917f0cb4-2622-42e3-8152-bd0164c94c55" />
+<img width="1024" height="1080" alt="dashboard_2" src="https://github.com/user-attachments/assets/2f1ac58f-fc71-40ea-9d6e-9cedc8d85158" />
+
 
 ---
 
