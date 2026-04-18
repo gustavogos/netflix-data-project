@@ -75,3 +75,8 @@ views/
 
 Os dados foram armazenados no Google Cloud (BigQuery) durante o desenvolvimento.
 Os recursos foram desativados posteriormente para evitar custos.
+
+
+Gustavo Gomes
+📊 Focado em Engenharia e Análise de Dados
+🔗 (https://www.linkedin.com/in/gustavo-gos)
